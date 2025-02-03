@@ -104,7 +104,7 @@ try {
     branchName = "Unknown"
     gitHash = "None"
     gitHashFull = "None"
-    commitDistance = 0
+    commitDistance = 1
     lastTag = "None"
     isCleanTag = false
 }
